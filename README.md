@@ -24,7 +24,7 @@ Than place a div with JW Player
 
 You can pass options to jwplayer helper to customize it:
 
-    <%= jwplayer({width: 500, height: 200}) %>
+    <%= jwplayer({id: "yourid", width: 500, height: 200}) %>
 
 More information for customization could be found [here](http://www.longtailvideo.com/support/jw-player/28839/embedding-the-player)
 
